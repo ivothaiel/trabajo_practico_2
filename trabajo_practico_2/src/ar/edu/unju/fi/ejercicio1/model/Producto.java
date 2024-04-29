@@ -74,6 +74,10 @@ public class Producto {
 	private double precioUnitario;
 	private OrigenFabricacion origenFabricacion;
 	private Categoria categoria;
+	public boolean isEstado() {
+		// TODO Auto-generated method stub
+		return false;
+	}
 	
 	
 
